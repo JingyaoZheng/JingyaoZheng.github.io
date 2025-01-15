@@ -38,8 +38,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-my-first-phd-work-lmlpa-has-been-accepted-by-computatioanl-linguistics",
-          title: '🎉 My first PhD work (LMLPA) has been accepted by Computatioanl Linguistics!!',
+    },{id: "news-welcome-to-my-new-website",
+          title: '🚀 Welcome to my new website!',
           description: "",
           section: "News",},{id: "news-my-first-phd-work-lmlpa-has-been-accepted-by-computatioanl-linguistics",
           title: '🎉 My first PhD work (LMLPA) has been accepted by Computatioanl Linguistics!!',
