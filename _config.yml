@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Jingyao
+middle_name: (Harrison)
+last_name: Zheng
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to reach out to me via [email](mailto:info@jyzheng.com) or connect with me on <a href="https://www.linkedin.com/in/jingyao-harrison-zheng">LinkedIn</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -202,6 +202,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts
 keep_files:
   - CNAME
   - .nojekyll
