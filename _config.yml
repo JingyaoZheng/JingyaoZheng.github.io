@@ -7,13 +7,11 @@ first_name: Jingyao
 middle_name: (Harrison)
 last_name: Zheng
 contact_note: >
-  Feel free to reach out to me via [email](mailto:info@jyzheng.com) or connect with me on <a href="https://www.linkedin.com/in/jingyao-harrison-zheng">LinkedIn</a>.
+  Feel free to reach out to me via <a href="mailto:info@jyzheng.com">Email</a> or connect with me on <a href="https://www.linkedin.com/in/jingyao-harrison-zheng">LinkedIn</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Jingyao (Harrison) Zheng's Website.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  Based on [*folio](https://github.com/bogoli/-folio) design.
 keywords: Human Computer Interaction, Human Centered Artificial Intelligence # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
