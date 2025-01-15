@@ -203,7 +203,7 @@ exclude:
   - _posts
   - _projects
   - _pages/blog.md
-  
+
 keep_files:
   - CNAME
   - .nojekyll
