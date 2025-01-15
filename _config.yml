@@ -200,7 +200,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - blog
+  - _pages/blog.md
 keep_files:
   - CNAME
   - .nojekyll
