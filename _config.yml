@@ -203,6 +203,8 @@ exclude:
   - _posts
   - _projects
   - _pages/blog.md
+  - _pages/repositories.md
+  - _pages/people.md
 
 keep_files:
   - CNAME
