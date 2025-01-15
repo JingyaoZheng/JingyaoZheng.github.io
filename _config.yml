@@ -157,7 +157,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -207,6 +207,7 @@ exclude:
   - _pages/profiles.md
   - _pages/teaching.md
   - _pages/dropdown.md
+  - _pages/cv.md
 
 keep_files:
   - CNAME
@@ -408,7 +409,6 @@ enable_project_categories: true # enables categorization of projects into multip
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
-
 
 # -----------------------------------------------------------------------------
 # Library versions
