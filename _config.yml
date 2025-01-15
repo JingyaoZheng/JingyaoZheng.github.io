@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Jingyao (Harrison) Zheng's Personal Website
 footer_text: >
-
+Thanks to the al-folio template by Alex Shadivat. # text in the footer
 keywords: Human Computer Interaction, Human Centered Artificial Intelligence # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: /assets/img/icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
