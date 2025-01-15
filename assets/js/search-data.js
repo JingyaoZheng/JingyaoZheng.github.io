@@ -38,8 +38,11 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-my-first-phd-work-has-been-accepted-by-computatioanl-linguistics",
-          title: '🎉 My first PhD work has been accepted by Computatioanl Linguistics!!',
+    },{id: "news-my-first-phd-work-lmlpa-has-been-accepted-by-computatioanl-linguistics",
+          title: '🎉 My first PhD work (LMLPA) has been accepted by Computatioanl Linguistics!!',
+          description: "",
+          section: "News",},{id: "news-my-first-phd-work-lmlpa-has-been-accepted-by-computatioanl-linguistics",
+          title: '🎉 My first PhD work (LMLPA) has been accepted by Computatioanl Linguistics!!',
           description: "",
           section: "News",},{
         id: 'social-email',
@@ -47,6 +50,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%69%6E%66%6F@%6A%79%7A%68%65%6E%67.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/jingyao-harrison-zheng", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -61,13 +71,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=CfDW2TIAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
