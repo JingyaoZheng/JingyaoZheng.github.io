@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-02-10 00:00:00-0800
+date: 2025-07-24 00:00:00-0800
 inline: true
 related_posts: false
 ---
 
-🧨 Back to work from Chinese New Year! 🧨
+Our paper was accepted by ISMAR 2025! My second paper during PhD! 🎉
