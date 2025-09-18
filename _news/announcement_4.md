@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper was accepted by ISMAR 2025! My second paper during PhD! 🎉
+Our paper was accepted by ISMAR 2025, my second paper during PhD! 🎉
