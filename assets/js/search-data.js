@@ -48,7 +48,7 @@ ninja.data = [{
           title: '🧨 Back to work from Chinese New Year! 🧨',
           description: "",
           section: "News",},{id: "news-our-paper-was-accepted-by-ismar-2025-my-second-paper-during-phd",
-          title: 'Our paper was accepted by ISMAR 2025! My second paper during PhD! 🎉...',
+          title: 'Our paper was accepted by ISMAR 2025, my second paper during PhD! 🎉...',
           description: "",
           section: "News",},{id: "news-good-luck-to-everyone-submitting-to-ieee-vr-2026-and-chi-2026",
           title: 'Good luck to everyone submitting to IEEE VR 2026 and CHI 2026!',
