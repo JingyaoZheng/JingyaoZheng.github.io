@@ -1,4 +1,4 @@
-<!doctype html><meta charset="utf-8"><title>UiVLA review — restricted</title>
+<!doctype html><meta charset="utf-8"><title>UiVLA review (restricted)</title>
 <style>body{font-family:Segoe UI,sans-serif;display:flex;min-height:90vh;align-items:center;
 justify-content:center;background:#111;color:#eee}.box{text-align:center}
 input{font-size:16px;padding:8px;border-radius:6px;border:1px solid #555;width:280px}
@@ -6,11 +6,11 @@ button{font-size:15px;padding:8px 18px;margin-left:8px;border-radius:6px;border:
 background:#2563eb;color:#fff;cursor:pointer}
 #msg{margin-top:12px;color:#f87171;min-height:1.2em}</style>
 <div class="box"><h2>Restricted research material</h2>
-<p>Aria Everyday Activities derived imagery — authorised access only.</p>
+<p>Aria Everyday Activities derived imagery. Authorised access only.</p>
 <input id="pw" type="password" placeholder="passphrase" autofocus>
 <button onclick="go()">Open</button><div id="msg"></div></div>
 <script>
-const SALT="/Oz1QbU2K87sk9RL6UIeXg==", IV="OwKWEWxB2mbh3NnS", ITERS=600000;
+const SALT="dwS35Ap2XrqHNmi+C+LF+w==", IV="tuOd+ebbEekMQ30J", ITERS=600000;
 const b2a = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
 async function go() {
   const msg = document.getElementById('msg'); msg.textContent = 'decrypting\u2026';
