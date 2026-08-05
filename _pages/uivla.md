@@ -68,6 +68,8 @@ An open question is therefore how many of the 98 "legibility failures" a
 human would actually reject — quantifying that is the goal of a planned
 human-rater study comparing model placements against oracle positions.
 
-_Example images are withheld pending dataset-licence review. Work in progress
+_Scene data: [Aria Everyday Activities dataset](https://www.projectaria.com/datasets/aea/) (Meta).
+Example images are withheld — the dataset licence prohibits public display of
+derived imagery without written permission. Work in progress
 (2026) — University of Cambridge.
 [GitHub](https://github.com/JingyaoZheng)._
