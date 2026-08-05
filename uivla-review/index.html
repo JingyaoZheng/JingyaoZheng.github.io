@@ -10,7 +10,7 @@ background:#2563eb;color:#fff;cursor:pointer}
 <input id="pw" type="password" placeholder="passphrase" autofocus>
 <button onclick="go()">Open</button><div id="msg"></div></div>
 <script>
-const SALT="dwS35Ap2XrqHNmi+C+LF+w==", IV="tuOd+ebbEekMQ30J", ITERS=600000;
+const SALT="qLxrTf0c5cOIwOx6j1j67Q==", IV="Spj5GUr4qZ0afheH", ITERS=600000;
 const b2a = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
 async function go() {
   const msg = document.getElementById('msg'); msg.textContent = 'decrypting\u2026';
